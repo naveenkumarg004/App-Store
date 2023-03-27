@@ -1,0 +1,13 @@
+.tab-item {
+  width: 65%;
+}
+.tab-name {
+  color: #1e293b;
+  font-size: 20px;
+  margin: 5px;
+}
+@media (min-width: 768px) {
+  .tab-name {
+    font-size: 35px;
+  }
+}
